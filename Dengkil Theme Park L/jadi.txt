@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main ()
+{
+   FILE *fp;
+   int i=0;
+   int c;
+   int age[1000];
+  
+   fp = fopen("age.txt","r");
+   if(fp == NULL) 
+   {
+      perror("Error in opening file");
+      return(-1);
+   }
+   
+  while (!feof(fp))
+  {
+  	fscanf(fp,"%d",&age[i]);
+  	printf("Age[%d]=%d\n",i,age[i]);
+  	i++;
+  }
+  
+  printf("Age[2]=%d\n",age[2]);
+   return(0);
+}

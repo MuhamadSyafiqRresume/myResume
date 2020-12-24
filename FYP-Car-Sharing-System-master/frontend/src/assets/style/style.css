@@ -1,0 +1,73 @@
+.clsLabel{
+    height: 65px;
+    vertical-align: middle;
+    padding-left: 1em;
+    font-weight: 700;
+    font-size: 150%;
+    text-align: right;
+    border-radius: 10px;
+}
+.clsLabel h4{
+    font-weight: 500;
+
+}
+.clsValue{
+    /* background-color: #f3f3f3; */
+    /* background-color: #ffffff; */
+    color: black;
+    height: 20px;
+    vertical-align: middle;
+    padding-left: 5%;
+    font-weight: 400;
+    border-bottom: 5px solid #ffffff;
+    border-radius: 10px;
+}
+.clsForm{
+    border-radius: 30px;
+    border: 1px solid #ffffff;
+    margin: 3%;
+}
+.clsHeader{
+    /* background-color: #d1bef3; */
+    /* background-color: #ffffff; */
+    background-color: #3ab8de;
+    color: #ffffff;
+    /* color: black; */
+    height: 50px;
+    vertical-align: middle;
+    text-align: left;
+    padding-left: 1em;
+    font-weight: 600;
+    border-bottom: 5px solid #ffffff;
+    font-size: 1.125rem;
+    /* border: 5px solid red; */
+    border-radius: 2px;
+}
+td.clsLabelDetails{
+    height: 65px;
+    vertical-align: middle;
+    padding-left: 1em;
+    font-weight: 700;
+    text-align: left;
+    border-style: solid;
+    border-color: rgb(191, 240, 252);
+}
+td.clsValueDetails{
+    color: black;
+    height: 20px;
+    vertical-align: middle;
+    padding-left: 5%;
+    font-weight: 400;
+    border-style: solid;
+    border-color:rgb(191, 240, 252);
+}
+.clsFormDetails{
+    border-radius: 30px;
+    border: 1px solid #ffffff;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+
+.error{
+    color: red;
+}

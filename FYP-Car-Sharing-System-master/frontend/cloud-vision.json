@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "car-sharing-system",
+  "private_key_id": "fd6b0abcc03f0b6317684d962c7d36b08b6401a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSz7SdaQ0EMOGc\nxSazR0NMipYP2VKvNU4mQuuna7FYD56bhAv5JSqk9qT3CCFhueacUeKII6nJBCiF\nlTifdnJuiQK+g5ls4XIjF1AWrSLeyay+e0pc/hA7gWaZOq1Pnsp0sTvfgGRW+wc3\nNNqBe1+aPuVvqLdCnolRXkOY7R3YgorYdBc5ii8VeIiuomEAPFFsuR6kfP4GpDTR\nxyni7/3LD8n8gnJxWeMoXPmem0EwZrgInxpCQBq+SepOAVN2ps1XDlQHcSp5Ogmj\n9Ue04D1ix3Ek2WXCQNTSm6MX8qZcIsL3yCOC6I8OUFLVo5FMEXEQJKIptYF9Otc4\n83URM29rAgMBAAECggEACtGWmED9DhGCFrjqlKyMN5BA5bMYpkOx2hz1W7WScJBa\nGlC9RyNnhJeOaYvmVdrKtTtNi8XBBciyKcHo1ct3PFEJbDurazwj2pUluD4TA0Lu\nYW0ZekfYr2HmSyVpTyQ+/CFxbZN7EXPXQMi6z27liSrYYoWW16hyKxZcueDDYciE\nWjn/OV8dyEAMhxM9gdB5AuEGe1Apc+3uK94w0EJFBuBPweUe7yzOs7o6ENMv0LSP\nteTVuO7rmM/Tv/L1KBkPylAUmg7cO7ZwdLAw8BFfQMg0fdRWqSzkMqdhZFtlM2vt\ndg82YZ0URKbap6fTdhgrMYWgo7zsKJiooamn22132QKBgQDFEwl7G/+1rdDP3GyS\ncL004OsPxvM/JW2qlXi5NYS0b9ynXc7WE6NG3KJ2o+iTnqhkv3elYGjIrraOqqYp\nSsBqoDK/VayLoBAlxfbrFJQDjB13EZZHrZJSoBm6YwG4I6s3sbw4H91rxSAPHZ4z\nywuIryz5r9mJP2N9TNWKW+25kwKBgQC+tU9kn5p5cEBXrZ7qoAk0l8hd/Nug0dIP\nDoPjfpUe8UXQNW9fZEYAoyRMlz4Nz2yeX5LsWNXjQ0MTIrjnKr+rZPEAG1xx+Tlc\nAIUuC5hase6UpLlTKsh2ZpVOrkYBLjQExINtm/L/yPu3wHoHWCyCK4uX+KZpOebe\n0l3Q/rk5yQKBgQC6SPV0TpIXLRct9MEYZ8MiAd2QS1JRhVK1pZa5E7K+UOL1vcGv\nMF7ts89KcEN/jsDEgwxY4doKoMPl9b8dVxCteYKexCBW11WMLyXpLsl+1OphS9mP\nJa4jtjy7p6zPX8AP5EzzjINjxLE6OJf7g1oCuPu9hZEOoEGuBnvvzlfXSwKBgB7A\njfTj57z9ZOK+lImxFMruTtkZFTFxpDXZWVst5k3/CgrxEuyG9uLTa98N5GvFrvY6\n4y5JhPQIvKAxUS+1rQKuXE5wGxAl6CH104QBSqgVWSuPBHNsyraNBDaT06YNFUZP\nigH6y8yDVFPlLchRZ5v1+aSf6/W76Ia11XsGGEhBAoGAO9lN6H+w22lG3uMspyfF\n/HhxAnW57JohLWqGk8u0QJthh0u6GkbpUOgBZZ+qx+ReJi04F1s12wikbvii9vTY\n7/wvuPxbUT6rOVAHFYXwUY4tBzijBWbJunEVaRp/peJEDHHN6Qre+wUPNF2gcGiE\nORJM8L6iQLnPPMtCog1IxnY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "license-ocr@car-sharing-system.iam.gserviceaccount.com",
+  "client_id": "113347113007153551558",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/license-ocr%40car-sharing-system.iam.gserviceaccount.com"
+}
