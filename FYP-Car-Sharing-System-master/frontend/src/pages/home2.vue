@@ -609,7 +609,7 @@ export default {
         origin1 +
         "&destinations=" +
         destinationB +
-        "&key=AIzaSyCUYXPVAJmsPDIWUI4Idrg5T-QEyM0bbOQ";
+        "&key=<Enter-Api-Key>";
         // "&key=<YOUR-API-KEY>";
       console.log(url);
       let response = await fetch(url);

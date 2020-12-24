@@ -73,7 +73,7 @@ const firebaseConfig = {
   measurementId: "G-Q85BXLFWHW"
 };
 const firebaseConfig2 = {
-  apiKey: "AIzaSyCUYXPVAJmsPDIWUI4Idrg5T-QEyM0bbOQ",
+  apiKey: "<Enter-Api-Key>",
   authDomain: "car-sharing-system-2.firebaseapp.com",
   databaseURL: "https://car-sharing-system-2-default-rtdb.firebaseio.com",
   projectId: "car-sharing-system-2",
@@ -115,7 +115,7 @@ Vue.use(Vuelidate);
 Vue.use(VueGoogleMaps, {
   load: {
     // key: '<YOUR-API-KEY>',
-    key: "AIzaSyCUYXPVAJmsPDIWUI4Idrg5T-QEyM0bbOQ",
+    key: "<Enter-Api-Key>",
     libraries: "places" // This is required if you use the Autocomplete plugin
     // OR: libraries: 'places,drawing'
     // OR: libraries: 'places,drawing,visualization'
