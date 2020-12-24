@@ -1,0 +1,40 @@
+Admin
+- Register new user
+-- After successfully register user, need to click on other tabs before able to register new user
+-- No validation for email
+-- Duplicate username return success (Database no new user)
+-- Wrong confirm password return success (Database contains new user)
+
+User created: (password)
+-usert1
+-usert2
+-usert3
+-usert4
+-usert11
+
+
+Leave
+- add validation for leave if leave before today's date
+- validation for Reasons cannot be empty (if empty database crash - reason cannot be null)
+- approve leave should redirect to another page (can approve 2+ times and also decline)
+- approval is shown even if status is true
+- decline function not added
+- own user can see own leave (approval for t2, t3, t4)
+- user cannot apply leave on same day
+- user should be able to delete pending leave
+- user should be able to remove approved leave with higher tier approving the delete
+
+
+PSR
+- required date cannot be before today's date
+- cost type will always put unit rate as checked (problem with justification of purchase also)
+- unit price should show RM
+- unit price cannot be negative number or 0
+- user can spam ADD many times
+- REMOVE will remove the most bottom description. What if the user want to remove something in the middle?
+- SUBMIT/APPROVE/DECLINE should redirect user to another page
+- usert4 cannot see approval
+- user should be able to delete pending psr
+
+PO
+- cannot test po because cannot approve with t4

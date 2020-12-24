@@ -1,0 +1,48 @@
+{
+  "name": "vue-material-dashboard",
+  "version": "1.2.1",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "dev": "npm run serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "axios": "^0.19.2",
+    "buefy": "^0.8.20",
+    "chartist": "0.11.2",
+    "dateformat": "^3.0.3",
+    "fs-extra": "^8.1.0",
+    "google-maps": "3.3.0",
+    "jspdf": "^1.5.3",
+    "jspdf-autotable": "^3.5.9",
+    "nodemailer": "^6.4.11",
+    "numeral": "^2.0.6",
+    "vue": "2.6.10",
+    "vue-bootstrap-datetimepicker": "^5.0.1",
+    "vue-clickaway": "2.2.2",
+    "vue-github-buttons": "3.1.0",
+    "vue-material": "1.0.0-beta-11",
+    "vue-moment": "^4.1.0",
+    "vue-numeral-filter": "^1.4.0",
+    "vue-router": "^3.4.3",
+    "vue-social-sharing": "2.4.5",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "3.8.0",
+    "@vue/cli-plugin-eslint": "3.8.0",
+    "@vue/cli-service": "3.8.3",
+    "@vue/eslint-config-prettier": "4.0.1",
+    "es6-promise": "4.2.8",
+    "eslint-plugin-vue": "5.2.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "7.1.0",
+    "vue-template-compiler": "2.6.10"
+  }
+}
