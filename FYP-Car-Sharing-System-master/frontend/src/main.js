@@ -73,7 +73,7 @@ const firebaseConfig = {
   measurementId: "G-Q85BXLFWHW"
 };
 const firebaseConfig2 = {
-  apiKey: "<Enter-Api-Key>",
+  apiKey: "<Enter-Api-Key>s",
   authDomain: "car-sharing-system-2.firebaseapp.com",
   databaseURL: "https://car-sharing-system-2-default-rtdb.firebaseio.com",
   projectId: "car-sharing-system-2",
